@@ -13,3 +13,6 @@ pip install SparseCOOTensorMulPyTorch
 ```
 import SparseCOOTensorMulPyTorch
 ```
+
+### PYPI link
+https://pypi.org/project/SparseCOOTensorMulPyTorch/
