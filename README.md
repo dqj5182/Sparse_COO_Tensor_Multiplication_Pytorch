@@ -5,11 +5,11 @@ Sparse matrix is everywhere including social network, polymer structure, and roa
 **This is not element wise matrix multiplication, but regular matrix multiplication for two sparse coo tensors implemented in Pytorch**
 
 ### To install the package
-'''
+```
 pip install SparseCOOTensorMulPyTorch
-'''
+```
 
 ### To import module
-'''
+```
 import SparseCOOTensorMulPyTorch
-'''
+```
